@@ -1,0 +1,10 @@
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\AdjaceneyMatrix\bin\Debug\AdjaceneyMatrix.exe.config
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\AdjaceneyMatrix\bin\Debug\AdjaceneyMatrix.exe
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\AdjaceneyMatrix\bin\Debug\AdjaceneyMatrix.pdb
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\AdjaceneyMatrix\obj\Debug\AdjaceneyMatrix.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\AdjaceneyMatrix\obj\Debug\AdjaceneyMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\AdjaceneyMatrix\obj\Debug\AdjaceneyMatrix.exe
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\AdjaceneyMatrix\obj\Debug\AdjaceneyMatrix.pdb
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\AdjaceneyMatrix\bin\Debug\DataStructureLib.dll
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\AdjaceneyMatrix\bin\Debug\DataStructureLib.pdb
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\AdjaceneyMatrix\obj\Debug\AdjaceneyMatrix.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\WeightedGraph\bin\Debug\WeightedGraph.exe.config
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\WeightedGraph\bin\Debug\WeightedGraph.exe
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\WeightedGraph\bin\Debug\WeightedGraph.pdb
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\WeightedGraph\obj\Debug\WeightedGraph.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\WeightedGraph\obj\Debug\WeightedGraph.Form1.resources
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\WeightedGraph\obj\Debug\WeightedGraph.Properties.Resources.resources
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\WeightedGraph\obj\Debug\WeightedGraph.csproj.GenerateResource.cache
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\WeightedGraph\obj\Debug\WeightedGraph.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\WeightedGraph\obj\Debug\WeightedGraph.exe
+C:\Users\Rachanon\source\repos\AdjaceneyMatrix\WeightedGraph\obj\Debug\WeightedGraph.pdb
